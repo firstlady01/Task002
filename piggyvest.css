@@ -2,6 +2,7 @@
 .body{
  background-color: #ADD8E6;
  text-align: center;
+ padding: 40px 40px 48px;
  
      }
 .header{
@@ -56,16 +57,11 @@
     padding: 12px 8px 12px 12px;
     align-content: center;
     margin: auto;
-    width: 50%;
+    width: 35%;
     border-top-left-radius: 10px;
  border-top-right-radius: 10px;
  border-bottom-right-radius: 10px;
 }
-/*.select{
-    color: black;
-    font: 16px;
-    margin: 0px 2px;
-} */
 .button {
     
     color: #ffffff;
